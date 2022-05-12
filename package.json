@@ -1,5 +1,6 @@
 {
   "name": "tailwind-nextjs-starter-blog",
+  "homepage": "https://www.aetherio.netlify.app/",
   "version": "1.5.3",
   "private": true,
   "scripts": {
