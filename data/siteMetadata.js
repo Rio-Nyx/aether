@@ -11,7 +11,7 @@ const siteMetadata = {
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
   email: 'rionyx67@gmail.com',
-  github: 'https://github.com/Rio-Nyx',
+  github: 'https://github.com/Rio-Nyx/',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
